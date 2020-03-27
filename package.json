@@ -15,7 +15,7 @@
     "jquery.turbolinks": "git+https://git@github.com/kossnocorp/jquery.turbolinks#2.1.0",
     "mdn-polyfills": "5.11.0",
     "primer": "^10.10.4",
-    "rails-ujs": "^5.1.1",
+    "rails-ujs": "^5.2.4",
     "remodal": "^1.1.1",
     "transliteration": "^1.6.2",
     "webcomponents.js": "^0.7.24",
