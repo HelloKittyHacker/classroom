@@ -234,10 +234,10 @@ lru-cache@^4.0.1:
     pseudomap "^1.0.2"
     yallist "^2.1.2"
 
-mdn-polyfills@5.11.0:
-  version "5.11.0"
-  resolved "https://registry.yarnpkg.com/mdn-polyfills/-/mdn-polyfills-5.11.0.tgz#84850485966a1896a20ba531dcfa21f93971472b"
-  integrity sha512-0TpXrw/kpNFAiwoz/Lk5JwQoULoPPvE5BQheuR1/CnJgznpmZPNiInMFC6MTgZJaC/B5y2Ci66xP4nd0zpHvfQ==
+mdn-polyfills@5.20.0:
+  version "5.20.0"
+  resolved "https://registry.yarnpkg.com/mdn-polyfills/-/mdn-polyfills-5.20.0.tgz#ca8247edf20a4f60dec6804372229812b348260b"
+  integrity sha512-AbTv1ytcoOUAkxw6u5oo2QPf27kEZgxBAQr49jFb4i2VnTnFGfJbcIQ9UDBOdfNECeXsgkYFwB2BkdeTfOzztw==
 
 mem@^1.1.0:
   version "1.1.0"
