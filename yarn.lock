@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@github/details-menu-element@^1.0.6":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@github/details-menu-element/-/details-menu-element-1.0.6.tgz#078b83f75d654dcc8359c8850fb73277e7740fcc"
-  integrity sha512-fDZvy6UWIzkIyn4ls8UmzEpr1H8WhixaQQsLc4ZsyRKe+JFD45T96rWhWJjpJiAVwmTUbx7nX2gA5WpJS+mSxA==
+"@github/details-menu-element@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@github/details-menu-element/-/details-menu-element-1.0.8.tgz#bb9b3175862582e1e28f56dd87a199c34e78ca57"
+  integrity sha512-zwVrfKtDZ3bAe4GLoxHnt/NJ6npg2veieRqHeuwv6wtumvOYf+nSVMvpaMfCeHTEARJwpfwfHI9/lcp+RXtjRg==
 
 "@webcomponents/custom-elements@1.2.4":
   version "1.2.4"
