@@ -623,9 +623,10 @@ pseudomap@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/pseudomap/-/pseudomap-1.0.2.tgz#f052a28da70e618917ef0a8ac34c1ae5a68286b3"
 
-rails-ujs@^5.1.1:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/rails-ujs/-/rails-ujs-5.1.2.tgz#94919e35e7fa07467223e9c81444704593559ef5"
+rails-ujs@^5.2.4:
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/rails-ujs/-/rails-ujs-5.2.4.tgz#31056ccd62d868f7d044395f31d77a4440550ceb"
+  integrity sha512-Mzu6bnTBKn4IuJvP7BDJRy4lzvR1zMWVDeTdPwDubXBfxpFEKqwOi5Nb6tfE2SYtTd+bb3PRETf40I94jgKw3w==
 
 read-pkg-up@^2.0.0:
   version "2.0.0"
