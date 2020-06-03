@@ -19,7 +19,7 @@ gem "connection_pool", "~> 2.2", ">= 2.2.1"
 
 gem "dalli", "~> 2.7", ">= 2.7.6"
 
-gem "failbot_rails",      "~> 0.5.0"
+gem "failbot_rails", "~> 0.5.0"
 gem "faraday-http-cache", "~> 2.0"
 gem "faraday_middleware", "~> 0.13.1"
 gem "flipper",            "~> 0.10.2"
@@ -109,7 +109,7 @@ group :production do
 end
 
 group :test do
-  gem "action-cable-testing", "~> 0.3"
+  gem "action-cable-testing", "~> 0.3", ">= 0.3.1"
   gem "database_cleaner",     "~> 1.6", ">= 1.6.1"
   gem "factory_bot_rails",    "~> 4.8"
   gem "faker",                "~> 1.8", ">= 1.8.4"
