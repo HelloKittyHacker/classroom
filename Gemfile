@@ -8,7 +8,7 @@ git_source(:github) do |repo_name|
 end
 
 ruby File.read(File.expand_path("../.ruby-version", __FILE__)).chomp
-gem "rails", "~> 5.2.3"
+gem "rails", "~> 6.0.3", ">= 6.0.3.5"
 
 gem "autoprefixer-rails", "~> 7.1", ">= 7.1.3"
 
@@ -19,7 +19,7 @@ gem "connection_pool", "~> 2.2", ">= 2.2.1"
 
 gem "dalli", "~> 2.7", ">= 2.7.6"
 
-gem "failbot_rails",      "~> 0.5.0"
+gem "failbot_rails", "~> 0.5.0"
 gem "faraday-http-cache", "~> 2.0"
 gem "faraday_middleware", "~> 0.13.1"
 gem "flipper",            "~> 0.10.2"
