@@ -27,8 +27,8 @@ gem "flipper-redis",      "~> 0.10.2"
 gem "flipper-ui",         "~> 0.10.2"
 
 gem "geo_pattern", "~> 1.4"
-gem "google-api-client", "~> 0.11"
-gem "googleauth", "~> 0.8.0"
+gem "google-api-client", "~> 0.29", ">= 0.29.1"
+gem "googleauth", "~> 0.8.1"
 
 gem "jquery-datetimepicker-rails", "~> 2.4", ">= 2.4.1.0"
 gem "jquery-turbolinks",           "~> 2.1"
@@ -116,5 +116,5 @@ group :test do
   gem "shoulda-matchers",     "4.0.0.rc1"
   gem "simplecov",            "~> 0.15.0", require: false
   gem "vcr",                  "~> 3.0", ">= 3.0.3"
-  gem "webmock",              "~> 3.5"
+  gem "webmock", "~> 3.7", ">= 3.7.5"
 end
