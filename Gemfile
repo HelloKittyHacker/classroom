@@ -52,7 +52,7 @@ gem "peek-gc",              "~> 0.0.2"
 gem "peek-git",             "~> 1.0", ">= 1.0.2"
 gem "peek-performance_bar", "1.3.1"
 gem "peek-pg",              "~> 1.3"
-gem "peek-sidekiq",         "1.0.4"
+gem "peek-sidekiq", "1.0.4"
 gem "pg",                   "~> 1.1.4"
 gem "pg_search",            "~> 2.2"
 gem "pry-byebug",           "~> 3.7"
@@ -69,7 +69,7 @@ gem "ruby-progressbar",    "~> 1.8", ">= 1.8.1", require: false
 gem "kramdown",            "~> 1.17.0"
 
 gem "sass-rails", "~> 5.0", ">= 5.0.6"
-gem "sidekiq",    "~> 5.2", ">= 5.2.7"
+gem "sidekiq", "~> 6.4", ">= 6.4.0"
 gem "sprockets",  "~> 3.7", ">= 3.7.2"
 
 gem "turbolinks", "~> 2.5", ">= 2.5.4"
