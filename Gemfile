@@ -19,7 +19,7 @@ gem "connection_pool", "~> 2.2", ">= 2.2.1"
 
 gem "dalli", "~> 2.7", ">= 2.7.6"
 
-gem "failbot_rails",      "~> 0.5.0"
+gem "failbot_rails", "~> 0.5.0"
 gem "faraday-http-cache", "~> 2.0"
 gem "faraday_middleware", "~> 0.13.1"
 gem "flipper",            "~> 0.10.2"
@@ -68,9 +68,9 @@ gem "ruby-progressbar",    "~> 1.8", ">= 1.8.1", require: false
 
 gem "kramdown",            "~> 1.17.0"
 
-gem "sass-rails", "~> 5.0", ">= 5.0.6"
+gem "sass-rails", "~> 6.0", ">= 6.0.0"
 gem "sidekiq",    "~> 5.2", ">= 5.2.7"
-gem "sprockets",  "~> 3.7", ">= 3.7.2"
+gem "sprockets", "~> 4.2", ">= 4.2.0"
 
 gem "turbolinks", "~> 2.5", ">= 2.5.4"
 gem "typhoeus",   "~> 1.3"
