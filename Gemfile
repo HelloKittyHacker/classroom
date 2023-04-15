@@ -59,7 +59,7 @@ gem "pry-byebug",           "~> 3.7"
 gem "pry-rails",            "~> 0.3.9"
 gem "puma",                 "~> 4.3"
 
-gem "rack-canonical-host", "~> 0.2.3"
+gem "rack-canonical-host", "~> 1.2.0"
 gem "rack-rewrite",        "~> 1.5.0"
 gem "rack-timeout",        "~> 0.5.1", require: false
 gem "rails-i18n",          "~> 5.1", ">= 5.1.3"
