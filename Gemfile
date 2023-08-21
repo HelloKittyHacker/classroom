@@ -57,7 +57,7 @@ gem "pg",                   "~> 1.1.4"
 gem "pg_search",            "~> 2.2"
 gem "pry-byebug",           "~> 3.7"
 gem "pry-rails",            "~> 0.3.9"
-gem "puma",                 "~> 4.3"
+gem "puma", "~> 5.6", ">= 5.6.7"
 
 gem "rack-canonical-host", "~> 0.2.3"
 gem "rack-rewrite",        "~> 1.5.0"
@@ -104,7 +104,7 @@ group :production do
   gem "lograge",            "~> 0.11.2"
   gem "newrelic_rpm",       "~> 6.5", ">= 6.5.0.357"
   gem "pinglish",           "~> 0.2.1"
-  gem "puma_worker_killer", "~> 0.1.1"
+  gem "puma_worker_killer", "~> 0.3.1"
   gem "rack-tracker",       "~> 1.11.1"
 end
 
