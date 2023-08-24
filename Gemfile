@@ -24,7 +24,7 @@ gem "faraday-http-cache", "~> 2.0"
 gem "faraday_middleware", "~> 0.13.1"
 gem "flipper",            "~> 0.10.2"
 gem "flipper-redis",      "~> 0.10.2"
-gem "flipper-ui",         "~> 0.10.2"
+gem "flipper-ui", "~> 1.0.0"
 
 gem "geo_pattern", "~> 1.4"
 gem "google-api-client", "~> 0.11"
